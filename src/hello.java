@@ -1,5 +1,5 @@
 public class Hello{
-	public static void test {
+	public static void main {
 		
 	}
 }
